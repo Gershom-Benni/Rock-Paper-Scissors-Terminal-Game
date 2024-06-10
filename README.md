@@ -29,24 +29,24 @@ A simple Rock-Paper-Scissors game implemented in Java that you can play in the t
 5. Follow the on-screen instructions to play the game.
 
 ## Sample Output
-Enter your Choice 'r','p','s':
+Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
 r
 Game Tied!
-You chose : Rock
-Computer chose : Rock
-Wanna Play Again(y/n)
+You chose: Rock
+Computer chose: Rock
+Wanna play again? (y/n):
 y
-Enter your Choice 'r','p','s': 
+Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
 p
 You Won!
-You chose : Paper
-Computer chose : Rock
-Wanna Play Again(y/n)
+You chose: Paper
+Computer chose: Rock
+Wanna play again? (y/n):
 y
-Enter your Choice 'r','p','s': 
+Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
 s
 You Won!
-You chose : Scissor
-Computer chose : Paper
-Wanna Play Again(y/n)
+You chose: Scissor
+Computer chose: Paper
+Wanna play again? (y/n):
 n
