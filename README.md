@@ -19,11 +19,11 @@ A simple Rock-Paper-Scissors game implemented in Java that you can play in the t
     ```
 3. Compile the Java program:
     ```sh
-    javac RockPaperScissor.java
+    javac rock_paper_scissor.java
     ```
 4. Run the game:
     ```sh
-    java RockPaperScissor
+    java rock_paper_scissor
     ```
 
 5. Follow the on-screen instructions to play the game.
