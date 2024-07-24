@@ -29,24 +29,5 @@ A simple Rock-Paper-Scissors game implemented in Java that you can play in the t
 5. Follow the on-screen instructions to play the game.
 
 ## Sample Output
-Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
-r
-Game Tied!
-You chose: Rock
-Computer chose: Rock
-Wanna play again? (y/n):
-y
-Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
-p
-You Won!
-You chose: Paper
-Computer chose: Rock
-Wanna play again? (y/n):
-y
-Enter your choice ('r' for Rock, 'p' for Paper, 's' for Scissor):
-s
-You Won!
-You chose: Scissor
-Computer chose: Paper
-Wanna play again? (y/n):
-n
+Try our Java Terminal Emulator \
+https://java-rps-game-terminal-emulation.netlify.app/
