@@ -29,5 +29,5 @@ A simple Rock-Paper-Scissors game implemented in Java that you can play in the t
 5. Follow the on-screen instructions to play the game.
 
 ## Sample Output
-Try our Java Terminal Emulator \
+Try with our Terminal Emulator \
 https://java-rps-game-terminal-emulation.netlify.app/
